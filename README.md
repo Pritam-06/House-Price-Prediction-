@@ -63,7 +63,6 @@ House-Price-Prediction/
 * **Python**
 * **Pandas** – Data loading and manipulation
 * **NumPy** – Numerical operations
-* **MatplotLib** - For presenting graphs
 * **Scikit-learn** – Machine learning and preprocessing
 * **Joblib** – Saving and loading trained models
 * **CSV** – Dataset and prediction storage
