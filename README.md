@@ -43,8 +43,8 @@ House-Price-Prediction/
 ├── input.csv            # Test/input data used for prediction
 ├── output.csv           # Generated predictions
 │
-├── main.py              # Main training and prediction program
-├── main_old.py          # Earlier version of the implementation
+├── main2.py              # Main training and prediction program
+├── main1.py          # Earlier version of the implementation
 │
 ├── model.pkl            # Saved trained machine learning model
 ├── pipeline.pkl         # Saved preprocessing pipeline
