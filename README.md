@@ -105,7 +105,7 @@ The housing dataset is loaded using Pandas:
 ```python
 housing = pd.read_csv("housing.csv")
 ```
-
+    
 ---
 
 ### 2. Stratified Train/Test Split
