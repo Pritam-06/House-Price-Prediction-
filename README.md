@@ -32,7 +32,7 @@ The project also demonstrates an important real-world machine learning workflow:
 * Use the saved model to make predictions on new data.
 * Export predictions to a CSV file.
 
----
+---   
 
 ## 🗂️ Project Structure
 
@@ -67,7 +67,7 @@ House-Price-Prediction/
 * **Joblib** – Saving and loading trained models
 * **CSV** – Dataset and prediction storage
 
----
+---   
 
 ## 📊 Dataset
 
@@ -105,7 +105,7 @@ The housing dataset is loaded using Pandas:
 ```python
 housing = pd.read_csv("housing.csv")
 ```
-    
+       
 ---
 
 ### 2. Stratified Train/Test Split
@@ -132,7 +132,7 @@ random_state=42
 Therefore, approximately **80% of the data is used for training and 20% for testing/inference input**.
 
 ---
-
+    
 ## 🧹 Data Preprocessing
 
 The project separates numerical and categorical features.
@@ -172,11 +172,11 @@ full_pipeline = ColumnTransformer([
     ("num", num_pipeline, num_attribs),
     ("cat", cat_pipeline, cat_attribs)
 ])
-```
+```    
 
 This makes preprocessing consistent between model training and prediction.
-
----
+    
+---    
 
 ## 🤖 Machine Learning Model
 
@@ -195,10 +195,10 @@ The model predicts:
 
 ```text
 median_house_value
-```
- 
+```   
+    
 ---
-
+   
 ## 💾 Model Saving
 
 After training, the model and preprocessing pipeline are saved using Joblib.
