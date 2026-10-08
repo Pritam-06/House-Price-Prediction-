@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction using Machine Learning
+# 🏠 House Price Prediction using Machine Learning.
 
 A machine learning project that predicts **median house prices** using housing-related features such as location, number of rooms, population, household information, median income, and ocean proximity.
 
