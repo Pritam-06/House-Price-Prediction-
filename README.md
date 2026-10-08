@@ -3,7 +3,7 @@
 A machine learning project that predicts **median house prices** using housing-related features such as location, number of rooms, population, household information, median income, and ocean proximity.
 
 The project uses **Python, Pandas, NumPy, Scikit-learn, and Joblib**, with a complete preprocessing and machine learning pipeline.
-
+   
 ---   
 
 ## 📌 Project Overview
