@@ -57,7 +57,7 @@ House-Price-Prediction/
 > `model.pkl` and `pipeline.pkl` are generated automatically after the model-training stage.
 
 ---
-
+  
 ## 🛠️ Technologies Used
 
 * **Python**
