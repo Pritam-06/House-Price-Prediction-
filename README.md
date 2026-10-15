@@ -34,7 +34,7 @@ The project also demonstrates an important real-world machine learning workflow:
 
 ---   
 
-## 🗂️ Project Structure
+## 🗂️ Project Structure  
 
 ```text
 House-Price-Prediction/
