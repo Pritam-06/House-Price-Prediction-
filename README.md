@@ -5,7 +5,7 @@ A machine learning project that predicts **median house prices** using housing-r
 The project uses **Python, Pandas, NumPy, Scikit-learn, and Joblib**, with a complete preprocessing and machine learning pipeline.
    
 ---   
-   
+      
 ## 📌 Project Overview
 
 House prices depend on several factors such as location, income level, number of rooms, population, and proximity to the ocean.
